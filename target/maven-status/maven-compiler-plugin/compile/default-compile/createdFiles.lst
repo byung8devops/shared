@@ -1,0 +1,11 @@
+com\byung8\common\domain\CommonCode.class
+com\byung8\common\domain\Member.class
+com\byung8\common\domain\MemberAuth.class
+com\byung8\common\domain\Result.class
+com\byung8\common\domain\UnitType.class
+com\byung8\common\exception\Byung8Exception.class
+com\byung8\common\domain\RequestType.class
+com\byung8\common\domain\CodeGroup.class
+com\byung8\common\domain\Response.class
+com\byung8\common\domain\IResult.class
+com\byung8\common\domain\SearchOption.class
